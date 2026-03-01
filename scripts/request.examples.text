@@ -1,0 +1,31 @@
+{
+  "title": "Duna: Parte Dois",
+  "genre": "Ficção Científica/Aventura",
+  "releaseDate": "2024-02-29",
+  "rating": 8.8,
+  "description": "Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família."
+}
+
+{
+  "title": "Spider-Man: Across the Spider-Verse",
+  "genre": "Animação/Ação",
+  "releaseDate": "2023-06-01",
+  "rating": 8.7,
+  "description": "Miles Morales ressurge para o próximo capítulo da saga Spider-Verse, onde ele é catapultado através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Pessoas-Aranha."
+}
+
+{
+  "title": "Oppenheimer",
+  "genre": "Biografia/Drama",
+  "releaseDate": "2023-07-20",
+  "rating": 8.4,
+  "description": "A história do cientista americano J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica."
+}
+
+{
+  "title": "O Iluminado",
+  "genre": "Terror",
+  "releaseDate": "1980-05-23",
+  "rating": 8.4,
+  "description": "Uma família viaja para um hotel isolado para o inverno, onde uma presença espiritual sinistra influencia o pai na violência."
+}

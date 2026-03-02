@@ -2,6 +2,7 @@ package com.artefatox.spring_jpa_read_replica.controller;
 
 import com.artefatox.spring_jpa_read_replica.entity.Movie;
 import com.artefatox.spring_jpa_read_replica.service.MovieService;
+import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -28,6 +29,7 @@ public class MovieController {
         return ResponseEntity.ok(movie);
     }
 
+    @Transactional
     @PostMapping
     public ResponseEntity<Movie> create(@RequestBody Movie movie) {
         Movie response = service.create(movie);

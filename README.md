@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-important)](LICENSE)
 
 ## 📺 Assista ao Passo a Passo no YouTube
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Tutorial-red?style=for-the-badge&logo=youtube)](URL_DO_SEU_VIDEO_AQUI)
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/aPBrxJAmBw0)
 
 ### 🚀 O que é este projeto?
 
